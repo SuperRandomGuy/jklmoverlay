@@ -18,7 +18,6 @@
     document.getElementsByClassName('tutorial')[0].parentElement.removeChild(document.getElementsByClassName('tutorial')[0]);
     document.getElementsByClassName('medal')[0].innerText = "👨🏻‍🎓";
     window.setTimeout(function(){document.getElementsByClassName('rule lives')[0].children[0].innerText = '🌌 Vies'},150);
-    document.getElementsByClassName('joined')[0].removeChild(document.getElementsByClassName('joined')[0].children[0]);
     document.getElementsByClassName('toggleRules')[0].className = "toggleRules styled"
     var script = document.createElement('script');
         script.type = 'text/javascript';
