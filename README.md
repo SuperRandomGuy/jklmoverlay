@@ -1,10 +1,10 @@
 # Bombparty
-Mini overlay : 
-[TamperMonkey](https://github.com/SuperRandomGuy/Bombparty/raw/master/BP%20Little%20Overlay.user.js)
+Game Part : 
+[TamperMonkey](https://github.com/SuperRandomGuy/jklmoverlay/master/phoenixfalcon.js)
 ---------------
-Long Word Stats : 
-[TamperMonkey](https://github.com/SuperRandomGuy/Bombparty/raw/master/BP%20Long%20Word.user.js)
+Room Part : 
+[TamperMonkey](https://github.com/SuperRandomGuy/jklmoverlay/master/jklmrooms.js)
 ---------------
-BP Helper (need password) :
-[TamperMonkey](https://github.com/SuperRandomGuy/Bombparty/raw/master/BP%20Helper.user.js)
+Hub Part :
+[TamperMonkey](hhttps://github.com/SuperRandomGuy/jklmoverlay/master/jklmhub.js)
 ---------------
