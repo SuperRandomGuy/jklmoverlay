@@ -6,6 +6,7 @@
 // @author       Nycroc
 // @match        https://jklm.fun/
 // @require http://userscripts-mirror.org/scripts/source/107941.user.js
+// @downloadURL  https://github.com/SuperRandomGuy/SuperRandomGuy/jklmoverlay/master/jklmhub.js
 // @grant GM_setValue
 // @grant GM_getValue
 // ==/UserScript==
