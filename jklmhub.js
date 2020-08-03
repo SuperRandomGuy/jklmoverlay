@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         jklm hub overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.21
 // @description  shit
 // @author       Nycroc
 // @match        https://jklm.fun/
