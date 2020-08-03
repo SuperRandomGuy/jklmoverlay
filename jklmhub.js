@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         jklm hub overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.10001
+// @version      0.1
 // @description  shit
 // @author       Nycroc
 // @match        https://jklm.fun/
 // @require http://userscripts-mirror.org/scripts/source/107941.user.js
-// @downloadURL  https://github.com/SuperRandomGuy/SuperRandomGuy/jklmoverlay/master/jklmhub.js
 // @grant GM_setValue
 // @grant GM_getValue
 // ==/UserScript==
