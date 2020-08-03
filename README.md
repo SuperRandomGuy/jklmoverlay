@@ -6,5 +6,5 @@ Room Part :
 [TamperMonkey](https://github.com/SuperRandomGuy/jklmoverlay/master/jklmrooms.js)
 ---------------
 Hub Part :
-[TamperMonkey](https://githubusercontent.com/SuperRandomGuy/jklmoverlay/raw/master/jklmhub.js)
+[TamperMonkey](https://github.com/SuperRandomGuy/jklmoverlay/raw/master/jklmhub.js)
 ---------------
